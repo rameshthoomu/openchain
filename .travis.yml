@@ -2,5 +2,5 @@ language: php
 php:
   - 5.5
 script: 
-  - gem install travis --forece
+  - gem install travis --force
   - phpunit Test.php
