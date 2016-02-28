@@ -1,7 +1,7 @@
-##Continous Integration Process:#
+##Continuous Integration Process:#
 
 
-Continuos Integration is a development practice that require developers to integrate code into a shared repository. Each time developer checks in the code into the repository is then verified by an automation build process. This process gives felixibilty for the developer to detects the build issues early.
+Continuous Integration is a development practice that require developers to integrate code into a shared repository. Each time developer checks in the code into the repository is then verified by an automation build process. This process gives felixibilty for the developer to detects the build issues early.
 
 
 **OpenBlockChain** Project is having an automation build process and it gives the developer and the contributors to see results of their build results early.
