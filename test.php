@@ -2,7 +2,7 @@
 class Test extends PHPUnit_Framework_TestCase
 {
 	public function testOnePlusOne() {
-		$this->assertEquals(2+1,4);
+		$this->assertEquals(2+1,3);
 	  	}
 }
 ?>
